@@ -14,10 +14,10 @@ if you want another color combination <br>
 • Page for create and download animated loading spinners free. <br>
 • Online scss to css beautify converter. <br>
 
-# Free Demo
+# Free demo
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/yLqzeeb) <br>
 
-# Full Skin 
+# Full skin 
 Buy [Full Skin](https://ko-fi.com/s/edb613e555) <br>
 
 ## Screenshots
