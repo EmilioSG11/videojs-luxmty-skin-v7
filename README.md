@@ -1,5 +1,5 @@
 ## videojs-luxmty-skin
-Skin for [videojs](http://videojs.com/) versions 7+ with dark, red and white color combination.<br>
+Skin for [videojs](http://videojs.com/) versions 7 with dark, red and white color combination.<br>
 
 # Free demo
 Codepen [Free Demo](https://codepen.io/emiliosg11/pen/yLqzeeb) <br>
